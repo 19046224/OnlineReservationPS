@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnlineReservationPS</string>
+    <string name="title">Online Reservation System</string>
+    <string name="full_name">Name:</string>
+    <string name="phone">Mobile Number:</string>
+    <string name="pax">Pax:</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+    <string name="smoking">Would you like to be seated in a smoking area?</string>
+</resources>
